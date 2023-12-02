@@ -1,4 +1,4 @@
-"""AOC Day 1 Part 1"""
+"""AOC Day 1 Part 2"""
 
 def get_input():
     """Returns content of input.txt"""
